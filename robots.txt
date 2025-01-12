@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kin9l.github.io/sitemap-index.xml
